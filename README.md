@@ -3,3 +3,6 @@ The Second Homework of The CS 202 - Fundamental Structures of Computer Science I
 
 The assignment is at the [cs202_hw2.pdf](cs202_hw2.pdf) file.
 
+The report of the homework is at the [hw2.pdf](hw2.pdf) file.
+
+
